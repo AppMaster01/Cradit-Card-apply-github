@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75035667709",
+    "project_id": "cradit-apply",
+    "storage_bucket": "cradit-apply.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75035667709:android:17df9a3891cf94fe76e294",
+        "android_client_info": {
+          "package_name": "com.example.cradit_card_apply"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75035667709-gd9arfq7t8e6mrjtq3nu322mg8vqvlod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI4JX0mPqDemRoiQYp1QaOKZ4AsM3wRHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75035667709-gd9arfq7t8e6mrjtq3nu322mg8vqvlod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
